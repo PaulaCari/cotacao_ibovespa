@@ -20,7 +20,7 @@ print(minima)
 print(valor_media)
 
 
-destinatario = "produtoscelular@gmail.com"
+destinatario = "produtos@gmail.com"
 asunto = "Analisis do projeto 2024"
 
 mensagem = f"""
